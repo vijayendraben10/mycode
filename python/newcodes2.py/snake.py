@@ -7,7 +7,7 @@ delay = 0.1
 wn = turtle.Screen()
 wn.title('snake game by vijayendra')
 wn.bgcolor("green")
-wn.setup(width=600, height=600)
+wn.setup(width=700, height=600)
 wn.tracer(0)
 
 # snake head
